@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "241086563958",
+    "firebase_url": "https://luuxadaminh-ba991.firebaseio.com",
+    "project_id": "luuxadaminh-ba991",
+    "storage_bucket": "luuxadaminh-ba991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241086563958:android:70d291bba77af29c7e0157",
+        "android_client_info": {
+          "package_name": "com.example.demo_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241086563958-rnikdt2lv9hldnaoge57t7bh847eaegq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8SDUdC5wW7O_z8y_GQFkK0bNEtBxGbhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241086563958-rnikdt2lv9hldnaoge57t7bh847eaegq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241086563958-a48vegumtgha6d7lj4qr97vtqd2daad2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.personal.luuxadaminhMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241086563958:android:f23c0c8bfddbebaf7e0157",
+        "android_client_info": {
+          "package_name": "com.personal.luuxadaminhmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241086563958-rnikdt2lv9hldnaoge57t7bh847eaegq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8SDUdC5wW7O_z8y_GQFkK0bNEtBxGbhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241086563958-rnikdt2lv9hldnaoge57t7bh847eaegq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241086563958-a48vegumtgha6d7lj4qr97vtqd2daad2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.personal.luuxadaminhMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
